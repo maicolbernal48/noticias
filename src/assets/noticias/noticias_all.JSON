@@ -1,0 +1,85 @@
+[
+    {
+        "noticias": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Formación",
+                    "value": "formacion"
+                },
+                {
+                    "name": "Cordinación",
+                    "value": "cordinacion"   
+                },
+                {
+                    "name": "Novedades",
+                    "value": "novedades"
+                },
+                {
+                    "name": "Otros",
+                    "value": "otros"
+                }
+            ]
+
+        },
+        "detailPeliculas": [
+            {
+                "title": "Fernando Villavicencio: lo que se sabe de los 6 colombianos capturados tras asesinato",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Fernando Villavicencio: lo que se sabe de los 6 colombianos capturados tras asesinato otro de los sospechosos, que murió en la noche del miércoles, también era colombiano.",
+                "text_long": "La Policía ecuatoriana identificó a los siguientes colombianos: Andrés Manuel Mosquera Ortiz, José Neider López Hitas, Adey Fernando García García, Camilo Andrés Romero Reyes, Jules Osmín Castaño Alzate y Jhon Gregore Rodríguez.",
+                "url_imag": "https://www.eltiempo.com/files/article_main_1200/uploads/2023/08/10/64d53bd6ef15d.jpeg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Covid-19: ¿qué implica la nueva variante que circula en Colombia desde junio?",
+                "date": "2023-10-08",
+                "show": true,
+                "text_small": "  el covid no se ha ido y no se irá. ",
+                "text_long": "El número de personas que fallecen o se complican por la enfermedad ha disminuido, pero basta con revisar las cifras del Ministerio de Salud en Colombia para darnos cuenta de que el virus sigue circulando entre nosotros”, manifestó el infectólogo Carlos Álvarez, quien fue coordinador nacional de estudios covid para Colombia y delegado de la Organización Mundial de la Salud (OMS)Y es que en esta época del año, las cifras por contagios tienden a incrementarse debido al pico de enfermedades respiratorias que afectan con mayor frecuencia a niños, ancianos y población vulnerable. En este contexto, el Instituto Nacional de Salud (INS) alertó ayer que el nuevo sublinaje EG.5 (14,3 % en circulación) empezó a circular en el país desde junio. No obstante, se observa en mayor proporción la circulación de la cepa XBB.1.5 (85,7%). Los técnicos manifestaron que la aparición de esta nueva variante no ha implicado un aumento significativo de casos a la fecha.El INS aseguró que la variante de mayor preocupación en el mundo continúa siendo ómicron, que también circula de manera dominante y representa casi todas las secuencias notificadas a las bases de datos a nivel global, principalmente GISAID.La Organización Mundial de la Salud (OMS) afirma que a pesar de que se está observando una gran diversidad genética de sublinajes/subvariantes de ómicron, los resultados clínicos son similares, pero con diferencias en el potencial de escape inmunológico.",
+                "url_imag": "https://www.eltiempo.com/files/article_main_1200/uploads/2022/07/19/62d6b975d9e77.jpeg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 2",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 3",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 4",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 5",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            }
+        ]             
+
+    }
+]
